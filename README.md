@@ -1,76 +1,9 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/fYPpmTM0/Git-Hub-Banner.png" alt="Banner" />
+<h1 align="center">Hi 👋, I'm Pijush Sarker</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<h1 align="center">Hi, I'm <strong>Pijush Sarker</strong> 👋</h1>
-<h3 align="center">Frontend Developer | React & Next.js Learner</h3>
-
----
-
-## 👨‍💻 About Me
-I'm a passionate frontend developer from Bangladesh.  
-I love building beautiful, responsive, and user-friendly web applications.  
-Currently I'm focusing on learning **Next.js** and improving my UI/UX skills.
-
----
-
-## 🔥 What I'm Doing Now
-- Exploring **Next.js**
-- Working on a **Tourism Website**
-- Building responsive UI using **HTML, CSS, JS & Tailwind**
-- Learning English & improving communication
-
----
-
-## 🚀 Skills
-
-### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
-</p>
-
-### **Backend & Database**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman" />
-</p>
-
----
-
-## 🌐 Connect With Me
-- **Facebook:** https://facebook.com  
-- **LinkedIn:** https://linkedin.com  
-- **Portfolio:** Coming Soon...
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pijushsarker&show_icons=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pijushsarker" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pijushsarker&layout=compact" />
-</p>
-
----
-
-## 📌 Pinned Projects
-👉 Pin at least these 3 repositories:
-
-- Tourism Website  
-- Book Store App  
-- Portfolio Website  
-
----
-
-### 🎯 If you want, I can also write README for each pinned project  
-Just tell me the project names ❤️  
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
