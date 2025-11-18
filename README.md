@@ -45,6 +45,25 @@ I love building **beautiful, responsive, and user-friendly web applications**.
 
 ---
 
+## 🚀 Skills
+
+### **Frontend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+</p>
+
+### **Backend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python" />
+</p>
+
+### **Tools & Others**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,firebase,vscode" />
+</p>
+
+
+
 ## 🌐 Connect With Me
 <p align="center">
   🔗 <a href="https://www.facebook.com/share/14TJgeNigku/" target="_blank">Facebook</a> | 
