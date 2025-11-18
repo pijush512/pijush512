@@ -43,10 +43,22 @@ I love building **beautiful, responsive, and user-friendly web applications**.
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.facebook.com/share/14TJgeNigku/" target="_blank">Facebook</a> | 
-  <a href="##" target="_blank">LinkedIn</a> | 
-  <a href="#">Portfolio: Coming Soon...</a>
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/yourprofile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" width="30" style="margin: 0 10px;" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" style="margin: 0 10px;" />
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" alt="Portfolio" width="30" style="margin: 0 10px;" />
+  </a>
 </p>
+
 
 ---
 
