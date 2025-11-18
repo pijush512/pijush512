@@ -1,17 +1,12 @@
 
-<!-- Name & Designation -->
-<h1 align="center">Hi, I'm <strong>Pijush Sarker</strong> 👋</h1>
-<h3 align="center">Frontend Developer | React & Next.js Learner</h3>
-
-<!-- Location & Email -->
-<p align="center">
-  📍 Bangladesh | ✉️ <a href="mailto:your-email@example.com">your-email@example.com</a>
-</p>
-
 <!-- Banner -->
 <p align="center">
   <img src="https://i.ibb.co.com/fYPpmTM0/Git-Hub-Banner.png" alt="Banner" width="100%" />
 </p>
+
+<!-- Name & Designation -->
+<h1 align="center">Hi, I'm <strong>Pijush Sarker</strong> 👋</h1>
+<h3 align="center">Frontend Developer | React & Next.js Learner</h3>
 
 ---
 
