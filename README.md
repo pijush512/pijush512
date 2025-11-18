@@ -1,44 +1,87 @@
+<!-- Profile Picture -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/your-github-id" alt="Profile Picture" width="150" style="border-radius:50%;" />
+</p>
+
+<!-- Name & Designation -->
+<h1 align="center">Hi, I'm <strong>Pijush Sarker</strong> 👋</h1>
+<h3 align="center">Frontend Developer | React & Next.js Learner</h3>
+
+<!-- Location & Email -->
+<p align="center">
+  📍 Bangladesh | ✉️ <a href="mailto:your-email@example.com">your-email@example.com</a>
+</p>
+
 <!-- Banner -->
 <p align="center">
   <img src="https://i.ibb.co/fYPpmTM0/Git-Hub-Banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Pijush Sarker</h1>
-<p align="center">Frontend Developer | React & Next.js Learner</p>
+---
+
+## 👨‍💻 About Me
+Hey! I'm a passionate frontend developer from Bangladesh.  
+I love building **beautiful, responsive, and user-friendly web applications**.  
+
+### 🔥 Current Activities
+- Exploring **Next.js**  
+- Working on a **Tourism Website**  
+- Building responsive UI using **HTML, CSS, JS & Tailwind**  
+- Learning English & improving communication  
 
 ---
 
-### 🔥 GitHub Stats
+## 🚀 Skills
+
+### **Frontend**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pijushsarker&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+</p>
+
+### **Backend & Database**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### **Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman" />
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+## 🌐 Connect With Me
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <a href="https://facebook.com" target="_blank">Facebook</a> | 
+  <a href="https://linkedin.com" target="_blank">LinkedIn</a> | 
+  <a href="#">Portfolio: Coming Soon...</a>
 </p>
 
 ---
 
-### 📫 Connect with me
+## 📊 GitHub Stats
 <p align="center">
-  <a href="https://www.linkedin.com/in/pijushsarker" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/pijushsarker" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://github.com/pijushsarker" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=pijushsarker&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pijushsarker" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pijushsarker&layout=compact" />
 </p>
 
 ---
 
-✨ **Thanks for visiting my profile!**
+## 📌 Pinned Projects
+
+### 1️⃣ Tourism Website
+- **Overview:** A responsive travel website with location info, packages & booking system.  
+- **Live Link:** [View Live](https://your-tourism-website-link.com)  
+- **Tech Stack:** HTML, CSS, JS, React, Tailwind  
+- **Main Features:** Search packages, responsive design, booking form  
+- **Dependencies:** React Router, Axios, Tailwind CSS  
+- **Local Setup:**  
+  ```bash
+  git clone https://github.com/pijushsarker/tourism-website.git
+  cd tourism-website
+  npm install
+  npm start
