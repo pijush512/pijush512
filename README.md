@@ -43,8 +43,8 @@ I love building **beautiful, responsive, and user-friendly web applications**.
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://facebook.com" target="_blank">Facebook</a> | 
-  <a href="https://linkedin.com" target="_blank">LinkedIn</a> | 
+  <a href="https://www.facebook.com/share/14TJgeNigku/" target="_blank">Facebook</a> | 
+  <a href="##" target="_blank">LinkedIn</a> | 
   <a href="#">Portfolio: Coming Soon...</a>
 </p>
 
