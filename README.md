@@ -49,7 +49,7 @@ I love building **beautiful, responsive, and user-friendly web applications**.
 <p align="center">
   🔗 <a href="https://www.facebook.com/share/14TJgeNigku/" target="_blank">Facebook</a> | 
   🔗 <a href="##" target="_blank">LinkedIn</a> | 
-  🔗 <a href="https://yourportfolio.com" target="_blank">Portfolio</a>
+  🔗 <a href="##" target="_blank">Portfolio</a>
 </p>
 
 
