@@ -1,7 +1,3 @@
-<!-- Profile Picture -->
-<p align="center">
-  <img src="https://i.ibb.co.com/j9pxvx0w/pijush.jpg" alt="Profile Picture" width="150" style="border-radius:50%;" />
-</p>
 
 <!-- Name & Designation -->
 <h1 align="center">Hi, I'm <strong>Pijush Sarker</strong> 👋</h1>
@@ -14,7 +10,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/fYPpmTM0/Git-Hub-Banner.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/fYPpmTM0/Git-Hub-Banner.png" alt="Banner" width="100%" />
 </p>
 
 ---
