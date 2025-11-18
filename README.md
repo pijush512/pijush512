@@ -90,18 +90,40 @@ cd assignment-10-server
 npm install
 npm start
 
+## 📌 Pinned Projects
+
+### 1️⃣ English-Janala Website
+- **Overview:** A fully functional website with search functionality, interactive speaker button, and responsive design.  
+- **Live Link:** [View Live](https://pijush512.github.io/English-Janala)  
+- **Tech Stack:** HTML, CSS, JS, Tailwind  
+- **Main Features:** 
+  - Search functionality complete  
+  - Speaker button added  
+  - Fully responsive layout  
+  - Tailwind CSS integration
+**Repositories:**
+- [English-Janala Repo](https://github.com/pijush512/English-Janala)
+- **Dependencies:** Tailwind CSS  
+- **Local Setup:**  
+  ```bash
+  git clone https://github.com/pijushsarker/pijush512.git
+  cd pijush512
+  open index.html
+
 
 ## 📌 Pinned Projects
 
-### 1️⃣ Tourism Website
-- **Overview:** A responsive travel website with location info, packages & booking system.  
-- **Live Link:** [View Live](https://your-tourism-website-link.com)  
-- **Tech Stack:** HTML, CSS, JS, React, Tailwind  
-- **Main Features:** Search packages, responsive design, booking form  
-- **Dependencies:** React Router, Axios, Tailwind CSS  
+### 1️⃣ Kapasia School Website
+- **Overview:** A fully responsive school website design showcasing school info, gallery & layout.  
+- **Live Link:** [View Live](https://pijush512.github.io/Kapasiya-School)  
+- **Tech Stack:** HTML, CSS, JS  
+- **Main Features:** Responsive layout, modern design, image gallery
+**Repositories:**
+- [Kapasia School Repo](https://github.com/pijush512/Kapasiya-School)
+- **Dependencies:** None (Vanilla HTML/CSS/JS)  
 - **Local Setup:**  
   ```bash
-  git clone https://github.com/pijushsarker/tourism-website.git
-  cd tourism-website
-  npm install
-  npm start
+  git clone https://github.com/pijushsarker/kapasia-school.git
+  cd kapasia-school
+  open index.html
+
