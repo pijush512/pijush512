@@ -95,7 +95,7 @@ npm start
 ## 📌 Pinned Projects
 ### 2️⃣ English-Janala Website
 **Overview:** Fully functional website with search functionality, interactive speaker button, and responsive design.
-**Live Link:** [View Live](https://pijush512.github.io/English-Janala)
+- **Live Link:** [View Live](https://pijush512.github.io/English-Janala)  
 **Tech Stack:** HTML, CSS, JS, Tailwind
 **Main Features:**
 - Search functionality complete
