@@ -89,27 +89,34 @@ git clone https://github.com/pijushsarker/assignment-10-server.git
 cd assignment-10-server
 npm install
 npm start
+---
 
 ## 📌 Pinned Projects
+2️⃣ English-Janala Website
 
-### 2️⃣ English-Janala Website
-- **Overview:** A fully functional website with search functionality, interactive speaker button, and responsive design.
-**Live Link:** [English-Janala Live](https://pijush512.github.io/English-Janala)
-- **Tech Stack:** HTML, CSS, JS, Tailwind  
-- **Main Features:** 
-  - Search functionality complete  
-  - Speaker button added  
-  - Fully responsive layout  
-  - Tailwind CSS integration
-**Repositories:**
-- [English-Janala Repo](https://github.com/pijush512/English-Janala)
-- **Dependencies:** Tailwind CSS  
-- **Local Setup:**  
-  ```bash
+Overview: Fully functional website with search functionality, interactive speaker button, and responsive design.
+Live Link: English-Janala Live
+
+Tech Stack: HTML, CSS, JS, Tailwind
+Main Features:
+
+Search functionality complete
+
+Speaker button added
+
+Fully responsive layout
+
+Tailwind CSS integration
+Repositories:
+
+English-Janala Repo
+
+Local Setup:
+
 git clone https://github.com/pijushsarker/pijush512.git
 cd pijush512
 open index.html
-
+---
 
 ## 📌 Pinned Projects
 
@@ -126,4 +133,3 @@ open index.html
   git clone https://github.com/pijushsarker/kapasia-school.git
   cd kapasia-school
   open index.html
-
