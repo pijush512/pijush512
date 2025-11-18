@@ -48,9 +48,13 @@ I love building **beautiful, responsive, and user-friendly web applications**.
 ## 🌐 Connect With Me
 <p align="center">
   🔗 <a href="https://www.facebook.com/share/14TJgeNigku/" target="_blank">Facebook</a> | 
-  🔗 <a href="##" target="_blank">LinkedIn</a> | 
-  🔗 <a href="##" target="_blank">Portfolio</a>
+  🔗 <a href="https://www.linkedin.com" target="_blank">LinkedIn</a> | 
+  🔗 <a href="##" target="_blank">Portfolio</a> | 
+  🔗 <a href="https://instagram.com" target="_blank">Instagram</a> | 
+  🔗 <a href="https://www.snapchat.com/add" target="_blank">Snapchat</a> | 
+  🔗 <a href="https://www.tiktok.com" target="_blank">TikTok</a>
 </p>
+
 
 
 ---
