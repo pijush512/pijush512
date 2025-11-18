@@ -68,6 +68,30 @@ I love building **beautiful, responsive, and user-friendly web applications**.
 ---
 
 ## 📌 Pinned Projects
+### 1️⃣ Assignment-10 (Tourism Website)
+**Overview:** Full-stack library website with client & server.  
+**Live Link:** [https://assignment-10-3a48e.web.app/)  
+**Tech Stack:** React, Node.js, Express, MongoDB, Tailwind  
+**Main Features:** booking system, responsive UI  
+**Repositories:**  
+- [Client Repo](https://github.com/pijush512/Assignment-10-clicnt-site)  
+- [Server Repo](https://github.com/pijush512/Assignment-10-server-site)  
+**Local Setup:**
+```bash
+# Clone client
+git clone https://github.com/pijushsarker/assignment-10-client.git
+cd assignment-10-client
+npm install
+npm start
+
+# Clone server (new terminal)
+git clone https://github.com/pijushsarker/assignment-10-server.git
+cd assignment-10-server
+npm install
+npm start
+
+
+## 📌 Pinned Projects
 
 ### 1️⃣ Tourism Website
 - **Overview:** A responsive travel website with location info, packages & booking system.  
