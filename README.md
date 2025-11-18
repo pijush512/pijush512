@@ -70,7 +70,7 @@ I love building **beautiful, responsive, and user-friendly web applications**.
 ## 📌 Pinned Projects
 ### 1️⃣ Assignment-10 (Tourism Website)
 **Overview:** Full-stack library website with client & server.  
-**Live Link:** [https://assignment-10-3a48e.web.app/)  
+**Live Link:** [https://assignment-10-3a48e.web.app/](https://assignment-10-3a48e.web.app/)
 **Tech Stack:** React, Node.js, Express, MongoDB, Tailwind  
 **Main Features:** booking system, responsive UI  
 **Repositories:**  
@@ -92,9 +92,9 @@ npm start
 
 ## 📌 Pinned Projects
 
-### 1️⃣ English-Janala Website
+### 2️⃣ English-Janala Website
 - **Overview:** A fully functional website with search functionality, interactive speaker button, and responsive design.
-**Live Link:** [https://pijush512.github.io/English-Janala)    
+**Live Link:** [English-Janala Live](https://pijush512.github.io/English-Janala)
 - **Tech Stack:** HTML, CSS, JS, Tailwind  
 - **Main Features:** 
   - Search functionality complete  
@@ -106,14 +106,14 @@ npm start
 - **Dependencies:** Tailwind CSS  
 - **Local Setup:**  
   ```bash
-  git clone https://github.com/pijushsarker/pijush512.git
-  cd pijush512
-  open index.html
+git clone https://github.com/pijushsarker/pijush512.git
+cd pijush512
+open index.html
 
 
 ## 📌 Pinned Projects
 
-### 1️⃣ Kapasia School Website
+### 3️⃣ Kapasia School Website
 - **Overview:** A fully responsive school website design showcasing school info, gallery & layout.  
 - **Live Link:** [View Live](https://pijush512.github.io/Kapasiya-School)  
 - **Tech Stack:** HTML, CSS, JS  
