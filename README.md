@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id" alt="Profile Picture" width="150" style="border-radius:50%;" />
+  <img src="https://i.ibb.co.com/j9pxvx0w/pijush.jpg" alt="Profile Picture" width="150" style="border-radius:50%;" />
 </p>
 
 <!-- Name & Designation -->
