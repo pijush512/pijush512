@@ -14,11 +14,12 @@
 Hey! I'm a passionate frontend developer from Bangladesh.  
 I love building **beautiful, responsive, and user-friendly web applications**.  
 
-### 🔥 Current Activities
-- Exploring **Next.js**  
-- Working on a **Tourism Website**  
-- Building responsive UI using **HTML, CSS, JS & Tailwind**  
-- Learning English & improving communication  
+## 🛠️ Current Activities
+- Exploring **Next.js** & **React**
+- Working on a **Tourism Website**
+- Building responsive UI using **HTML, CSS, JS & Tailwind**
+- Learning **MongoDB, Express, Firebase** & improving backend skills
+- Learning **English** & improving communication
 
 ---
 
