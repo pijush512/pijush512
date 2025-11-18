@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/CdFxTsG/Banner.jpg" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/CdFxTsG/Banner.jpg" alt="Banner" width="100%" />
 </p>
 
 <!-- Name & Designation -->
