@@ -9,6 +9,9 @@
 <h3 align="center">Frontend Developer | React & Next.js Learner</h3>
 
 ---
+## 📍 Location & ✉️ Email
+- **Location:** Tangail, Dhaka, Bangladesh
+- **Email:** pijushsarker711@gmail.com
 
 ## 👨‍💻 About Me
 Hey! I'm a passionate frontend developer from Bangladesh.  
