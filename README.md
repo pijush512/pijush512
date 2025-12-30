@@ -69,15 +69,15 @@ I love building **beautiful, responsive, and user-friendly web applications**.
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=pijush512&show_icons=true&theme=radical" alt="Pijush's GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pijush512&layout=compact&theme=radical" alt="Top Langs" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pijush512&show_icons=true&theme=radical" alt="Pijush's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pijush512&layout=compact&theme=radical" alt="Top Langs" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pijushsarker&layout=compact" />
-</p>
+### 📈 Contribution Graph
+![GitHub Contribution Graph](https://raw.githubusercontent.com/pijush512/pijush512/main/github-contribution-grid-snake.svg)
 
 ---
 
