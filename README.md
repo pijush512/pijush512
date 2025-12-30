@@ -60,9 +60,9 @@ I love building **beautiful, responsive, and user-friendly web applications**.
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pijushsarker&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pijushsarker" height="180" />
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=pijush512&show_icons=true&theme=radical" alt="Pijush's GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pijush512&layout=compact&theme=radical" alt="Top Langs" height="170" />
 </p>
 
 <p align="center">
