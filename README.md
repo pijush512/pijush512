@@ -46,13 +46,23 @@ I love building **beautiful, responsive, and user-friendly web applications**.
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
-  🔗 <a href="https://www.facebook.com/share/14TJgeNigku/" target="_blank">Facebook</a> | 
-  🔗 <a href="https://www.linkedin.com" target="_blank">LinkedIn</a> | 
-  🔗 <a href="##" target="_blank">Portfolio</a> | 
-  🔗 <a href="https://instagram.com" target="_blank">Instagram</a> | 
-  🔗 <a href="https://www.snapchat.com/add" target="_blank">Snapchat</a> | 
-  🔗 <a href="https://www.tiktok.com" target="_blank">TikTok</a>
+  <a href="https://www.facebook.com/share/14TJgeNigku/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.linkedin.com/in/pijushsarkeralways/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.tiktok.com" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok">
+  </a>
+  <a href="https://www.snapchat.com/add" target="_blank">
+    <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat">
+  </a>
 </p>
 
 
