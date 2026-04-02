@@ -19,18 +19,42 @@ I love building **beautiful, responsive, and user-friendly web applications**.
 - Working on a **Tourism Website**
 - Building responsive UI using **HTML, CSS, JS & Tailwind**
 - Learning **MongoDB, Express, Firebase** & improving backend skills
+- Learning **English** & improving communication
 
 ---
 
 ## 🚀 Skills
-### **Frontend & Tools**
+
+### **Frontend**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,vscode,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+</p>
+
+### **Backend & Database**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### **Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Contribution Snake
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.facebook.com/share/14TJgeNigku/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.linkedin.com/in/pijushsarkeralways/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats & Contribution Snake
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pijush512&show_icons=true&theme=radical" alt="Pijush's GitHub Stats" height="170" />
@@ -46,13 +70,14 @@ I love building **beautiful, responsive, and user-friendly web applications**.
 ## 📌 Pinned Projects
 
 ### 1️⃣ Assignment-10 (Tourism Website)
-- **Live:** [View Demo](https://assignment-10-3a48e.web.app/)
-- **Repo:** [GitHub](https://github.com/pijush512/Assignment-10-clicnt-site)
+**Overview:** Full-stack library website with client & server.  
+**Live Link:** [https://assignment-10-3a48e.web.app/](https://assignment-10-3a48e.web.app/)  
+**Tech Stack:** React, Node.js, Express, MongoDB, Tailwind  
+**Repositories:** [Client Repo](https://github.com/pijush512/Assignment-10-clicnt-site) | [Server Repo](https://github.com/pijush512/Assignment-10-server-site)  
 
-### 2️⃣ English-Janala Website
-- **Live:** [View Demo](https://pijush512.github.io/English-Janala)
-- **Repo:** [GitHub](https://github.com/pijush512/English-Janala)
-
-### 3️⃣ Kapasia School Website
-- **Live:** [View Demo](https://pijush512.github.io/Kapasiya-School)
-- **Repo:** [GitHub](https://github.com/pijush512/Kapasiya-School)
+**Local Setup:**
+```bash
+git clone [https://github.com/pijush512/Assignment-10-clicnt-site.git](https://github.com/pijush512/Assignment-10-clicnt-site.git)
+cd Assignment-10-clicnt-site
+npm install
+npm start
