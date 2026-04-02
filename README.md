@@ -66,20 +66,60 @@ I love building **beautiful, responsive, and user-friendly web applications**.
 ## 📌 Pinned Projects
 
 ### 1️⃣ Assignment-10 (Tourism Website)
-- **Live:** [View Demo](https://assignment-10-3a48e.web.app/)
-- **Repo:** [GitHub](https://github.com/pijush512/Assignment-10-clicnt-site)
+**Overview:** Full-stack library website with client & server.  
+**Live Link:** [https://assignment-10-3a48e.web.app/](https://assignment-10-3a48e.web.app/)  
+**Tech Stack:** React, Node.js, Express, MongoDB, Tailwind  
+**Main Features:** Booking system, responsive UI.  
+**Repositories:** [Client Repo](https://github.com/pijush512/Assignment-10-clicnt-site) | [Server Repo](https://github.com/pijush512/Assignment-10-server-site)  
 
-### 2️⃣ English-Janala Website
-- **Live:** [View Demo](https://pijush512.github.io/English-Janala)
-- **Repo:** [GitHub](https://github.com/pijush512/English-Janala)
+**Local Setup:**
+```bash
+# Clone client
+git clone [https://github.com/pijush512/Assignment-10-clicnt-site.git](https://github.com/pijush512/Assignment-10-clicnt-site.git)
+cd Assignment-10-clicnt-site
+npm install
+npm start
 
-### 3️⃣ Kapasia School Website
-- **Live:** [View Demo](https://pijush512.github.io/Kapasiya-School)
-- **Repo:** [GitHub](https://github.com/pijush512/Kapasiya-School)
+# Clone server (new terminal)
+git clone [https://github.com/pijush512/Assignment-10-server-site.git](https://github.com/pijush512/Assignment-10-server-site.git)
+cd Assignment-10-server-site
+npm install
+npm start
+2️⃣ English-Janala Website
+Overview: Fully functional website with search functionality, interactive speaker button, and responsive design.
 
----
+Live Link: View Live
 
-### 🐍 My GitHub Contribution Snake
+Tech Stack: HTML, CSS, JS, Tailwind
+
+Main Features: Search functionality, speaker button, fully responsive.
+
+Repositories: English-Janala Repo
+
+Local Setup:
+
+Bash
+git clone [https://github.com/pijush512/English-Janala.git](https://github.com/pijush512/English-Janala.git)
+cd English-Janala
+open index.html
+3️⃣ Kapasia School Website
+Overview: A fully responsive school website design showcasing school info, gallery & layout.
+
+Live Link: View Live
+
+Tech Stack: HTML, CSS, JS
+
+Main Features: Modern design, image gallery, responsive layout.
+
+Repositories: Kapasia School Repo
+
+Local Setup:
+
+Bash
+git clone [https://github.com/pijush512/Kapasiya-School.git](https://github.com/pijush512/Kapasiya-School.git)
+cd Kapasiya-School
+open index.html
+🐍 My GitHub Contribution Snake
 <p align="center">
-  <img src="https://github.com/pijush512/pijush512/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<img src="https://github.com/pijush512/pijush512/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
