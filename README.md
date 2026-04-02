@@ -91,6 +91,7 @@ git clone https://github.com/pijush512/Assignment-10-client-site.git
 cd Assignment-10-client-site
 npm install
 npm start
+```
 
 ---
 
@@ -115,6 +116,7 @@ https://github.com/pijush512/English-Janala
 git clone https://github.com/pijush512/English-Janala.git
 cd English-Janala
 open index.html
+```
 
 ---
 
@@ -139,6 +141,7 @@ https://github.com/pijush512/Kapasiya-School
 git clone https://github.com/pijush512/Kapasiya-School.git
 cd Kapasiya-School
 open index.html
+```
 
 ---
 
