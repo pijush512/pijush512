@@ -136,3 +136,8 @@ open index.html
   git clone https://github.com/pijushsarker/kapasia-school.git
   cd kapasia-school
   open index.html
+
+  ### 🐍 My GitHub Contribution Snake
+<p align="center">
+  <img src="https://github.com/pijush512/pijush512/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
