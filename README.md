@@ -54,15 +54,7 @@ I love building **beautiful, responsive, and user-friendly web applications**.
   <a href="https://www.linkedin.com/in/pijushsarkeralways/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.tiktok.com" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok">
-  </a>
-  <a href="https://www.snapchat.com/add" target="_blank">
-    <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat">
-  </a>
+
 </p>
 
 
@@ -76,8 +68,7 @@ I love building **beautiful, responsive, and user-friendly web applications**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pijush512&layout=compact&theme=radical" alt="Top Langs" height="170" />
 </p>
 
-### 📈 Contribution Graph
-![GitHub Contribution Graph](https://raw.githubusercontent.com/pijush512/pijush512/main/github-contribution-grid-snake.svg)
+
 
 ---
 
