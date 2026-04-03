@@ -14,8 +14,7 @@
 ---
 
 ## 👨‍💻 About Me
-Hey! I'm a passionate frontend developer from Bangladesh.  
-I enjoy turning ideas into real-world web applications with clean UI and smooth user experience.
+I am a passionate Full-Stack Developer from Bangladesh, focused on building scalable, user-centric web applications. As a fresher, I pride myself on writing clean, maintainable code and staying at the forefront of modern web technologies like Next.js 15.
 
 ---
 
