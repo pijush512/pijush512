@@ -4,6 +4,10 @@
 
 <h1 align="center">Hi, I'm <strong>Pijush Sarker</strong> 👋</h1>
 <h3 align="center">Frontend Developer | React & Next.js Learner</h3>
+---
+<p align="center">
+  <img src="YOUR_DIRECT_IMAGE_LINK_HERE" alt="Pijush Sarker Banner" width="100%" />
+</p>
 
 ---
 
