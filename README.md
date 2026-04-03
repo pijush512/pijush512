@@ -70,27 +70,28 @@ I enjoy turning ideas into real-world web applications with clean UI and smooth 
 
 ## 📌 Pinned Projects
 
-### 1️⃣ Assignment-10 (Tourism Website)
-**Overview:** Full-stack tourism website with client & server.  
+### 1️⃣ WanderAI – AI-Powered Travel Planner
+**Overview:** A high-performance AI-driven travel planner built with Next.js 15 that automates personalized itinerary creation. It uses Vercel AI SDK to generate structured, day-wise travel plans based on user budget and location in seconds.
 
-**Live Link:** https://assignment-10-3a48e.web.app/  
+**Live Link:** https://wander-ai-client-site.vercel.app 
 
-**Tech Stack:** React, Node.js, Express, MongoDB, Tailwind  
+**Tech Stack:** TypeScript, Next.js 15, Vercel AI SDK, MongoDB, Tailwind CSS, Lucide React. 
 
 **Key Features:**
-- Booking system with dynamic data handling  
-- Responsive UI for all devices  
+- AI Itinerary Generation: Integrated Vercel AI SDK to automate structured, day-wise travel plans based on user budget and location constraints.  
+- Performance Optimization: Leveraged React Server Components (RSC) to handle heavy AI processing, minimizing client-side bundle size for faster, seamless data streaming.
+- Server-Side Logic: Implemented Next.js 15 Server Actions to securely handle AI API prompts and responses, preventing sensitive data exposure on the client side.
 
 **Repositories:**  
-- Client: https://github.com/pijush512/Assignment-10-client-site  
-- Server: https://github.com/pijush512/Assignment-10-server-site  
+- Client: https://github.com/pijush512/WanderAI-Client-site
+- Server: https://github.com/pijush512/WanderAI-Server-Site
 
 **Local Setup:**
 ```bash
-git clone https://github.com/pijush512/Assignment-10-client-site.git
-cd Assignment-10-client-site
+git clone https://github.com/pijush512/WanderAI-Client-site.git
+cd WanderAI-Client-site
 npm install
-npm start
+npm run dev
 ```
 
 ---
