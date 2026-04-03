@@ -2,7 +2,6 @@
 <img width="1792" height="592" alt="gitHubBanner" src="https://github.com/user-attachments/assets/2df0e5f3-2c12-4daa-bdee-776b88018186" />
 <h1 align="center">Hi, I'm <strong>Pijush Sarker</strong> 👋</h1>
 <h3 align="center">Frontend Developer | React & Next.js Learner</h3>
----
 
 ## 📍 Location & ✉️ Email
 - **Location:** Tangail, Dhaka, Bangladesh
