@@ -1,12 +1,37 @@
 
 <img width="1792" height="592" alt="gitHubBanner" src="https://github.com/user-attachments/assets/2df0e5f3-2c12-4daa-bdee-776b88018186" />
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2df0e5f3-2c12-4daa-bdee-776b88018186" alt="Pijush Sarker Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm <strong>Pijush Sarker</strong> 👋</h1>
-<h3 align="center">Frontend Developer | React & Next.js Learner</h3>
+<h3 align="center">MERN Stack Developer | Scalable Web Systems</h3>
+
+<p align="center">
+  <em>"Crafting scalable solutions with modern stack."</em>
+</p>
+
+<p align="center">
+  Building high-performance, responsive, and user-centric web applications. I enjoy turning complex logic into clean, efficient code and am always eager to apply my full-stack skills while continuously learning in a professional environment.
+</p>
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pijush LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://pijush-stack-dev.netlify.app/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Pijush Portfolio" height="30" width="40" />
+  </a>
+</p>
+
 
 ## 📍 Location & ✉️ Email
 - **Location:** Tangail, Dhaka, Bangladesh
 - **Email:** pijushsarker711@gmail.com
+
 ---
+
 ## 👨‍💻 About Me
 Passionate MERN Stack Developer from Bangladesh, dedicated to building scalable and user-centric web applications with clean, maintainable code. Focused on leveraging modern technologies like Next.js 15 and complex logic to craft high-performance, robust web systems. Committed to continuous growth in the full-stack ecosystem while contributing to impactful, future-ready projects.
 ---
