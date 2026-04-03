@@ -62,8 +62,8 @@ I enjoy turning ideas into real-world web applications with clean UI and smooth 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pijush512&show_icons=true&theme=radical&v=2026" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pijush512&layout=compact&theme=radical&v=2026" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pijush512&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pijush512&layout=compact&theme=radical" height="170" />
 </p>
 
 ---
