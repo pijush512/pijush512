@@ -5,9 +5,7 @@
 <h1 align="center">Hi, I'm <strong>Pijush Sarker</strong> 👋</h1>
 <h3 align="center">Frontend Developer | React & Next.js Learner</h3>
 ---
-<p align="center">
-  <img src="YOUR_DIRECT_IMAGE_LINK_HERE" alt="Pijush Sarker Banner" width="100%" />
-</p>
+<img width="1792" height="592" alt="gitHubBanner" src="https://github.com/user-attachments/assets/2df0e5f3-2c12-4daa-bdee-776b88018186" />
 
 ---
 
