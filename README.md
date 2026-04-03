@@ -1,34 +1,24 @@
-<p align="center">
-  <img src="https://i.ibb.co/CdFxTsG/Banner.jpg" alt="Banner" width="100%" />
-</p>
 
+<img width="1792" height="592" alt="gitHubBanner" src="https://github.com/user-attachments/assets/2df0e5f3-2c12-4daa-bdee-776b88018186" />
+---
 <h1 align="center">Hi, I'm <strong>Pijush Sarker</strong> 👋</h1>
 <h3 align="center">Frontend Developer | React & Next.js Learner</h3>
----
-<img width="1792" height="592" alt="gitHubBanner" src="https://github.com/user-attachments/assets/2df0e5f3-2c12-4daa-bdee-776b88018186" />
-
 ---
 
 ## 📍 Location & ✉️ Email
 - **Location:** Tangail, Dhaka, Bangladesh
 - **Email:** pijushsarker711@gmail.com
-
 ---
-
 ## 👨‍💻 About Me
 Passionate MERN Stack Developer from Bangladesh, dedicated to building scalable and user-centric web applications with clean, maintainable code. Focused on leveraging modern technologies like Next.js 15 and complex logic to craft high-performance, robust web systems. Committed to continuous growth in the full-stack ecosystem while contributing to impactful, future-ready projects.
-
 ---
-
 ## 🛠️ Current Activities
 - Exploring **Next.js** & **React**
 - Working on a **Tourism Website**
 - Building responsive UI using **HTML, CSS, JS & Tailwind**
 - Learning **MongoDB, Express, Firebase** & improving backend skills
 - Improving **English communication skills**
-
 ---
-
 ## 🚀 Skills
 
 ### **Frontend**
@@ -45,9 +35,7 @@ Passionate MERN Stack Developer from Bangladesh, dedicated to building scalable 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman" />
 </p>
-
 ---
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -58,17 +46,13 @@ Passionate MERN Stack Developer from Bangladesh, dedicated to building scalable 
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
 </p>
-
 ---
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pijush512&show_icons=true&theme=radical" height="170" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pijush512&layout=compact&theme=radical" height="170" />
 </p>
-
 ---
-
 ## 📌 Pinned Projects
 
 ### 1️⃣ WanderAI – AI-Powered Travel Planner
@@ -94,9 +78,7 @@ cd WanderAI-Client-site
 npm install
 npm run dev
 ```
-
 ---
-
 ### 2️⃣ English-Janala Website
 
 **Overview:** Fully functional website with search functionality and interactive features.  
@@ -119,9 +101,7 @@ git clone https://github.com/pijush512/English-Janala.git
 cd English-Janala
 open index.html
 ```
-
 ---
-
 ### 3️⃣ Kapasia School Website
 
 **Overview:** A responsive school website showcasing school information and gallery.  
@@ -144,9 +124,7 @@ git clone https://github.com/pijush512/Kapasiya-School.git
 cd Kapasiya-School
 open index.html
 ```
-
 ---
-
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
