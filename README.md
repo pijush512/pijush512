@@ -14,7 +14,7 @@
 ---
 
 ## 👨‍💻 About Me
-I am a passionate Full-Stack Developer from Bangladesh, focused on building scalable, user-centric web applications. As a fresher, I pride myself on writing clean, maintainable code and staying at the forefront of modern web technologies like Next.js 15.
+Passionate MERN Stack Developer from Bangladesh, dedicated to building scalable and user-centric web applications with clean, maintainable code. Focused on leveraging modern technologies like Next.js 15 and complex logic to craft high-performance, robust web systems. Committed to continuous growth in the full-stack ecosystem while contributing to impactful, future-ready projects.
 
 ---
 
